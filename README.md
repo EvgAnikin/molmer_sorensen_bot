@@ -5,7 +5,7 @@ This Telegram bot simulates the Mølmer-Sørensen (MS) Hamiltonian in the simple
 $$
 H=
 $$
-Here $\omega$ is the frequency of the phonon mode; 2\mu$ is the detuning between two components of the bichromatic laser beam; $\Delta\omega$ is the qubit transition frequency shift, and $\Omega_\pm$ are the amplitudes of bichromatic beam components. T
+Here $\omega$ is the frequency of the phonon mode; $2\mu$ is the detuning between two components of the bichromatic laser beam; $\Delta\omega$ is the qubit transition frequency shift, and $\Omega_\pm$ are the amplitudes of bichromatic beam components. T
 
 To get an ideal MS gate, one should satisfy conditions
 1. $t = 2\pi/|\delta|$, where $\delta=\mu-\omega$
